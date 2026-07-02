@@ -1,5 +1,5 @@
 {
-  "version": "1.61.1",
-  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.61.1/mavin-ops-1.61.1.apk",
-  "notes": "Sign in on the phone app!\n\n• Native Google and Discord sign-in now work in the Android app (sign-in used to be web-only).\n• Signing in unlocks cross-device sync, friends, and direct messages on your phone.\n\nGrab this update, sign in, and your data follows you across devices."
+  "version": "1.61.2",
+  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.61.2/mavin-ops-1.61.2.apk",
+  "notes": "Sign in on the phone app!\n\n• Fixes Discord sign-in on Android (the first attempt was rejected by Discord).\n• Google sign-in also works.\n• Signing in unlocks cross-device sync, friends, and direct messages on your phone.\n\nGrab this update, sign in, and your data follows you across devices."
 }
