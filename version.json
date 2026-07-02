@@ -1,5 +1,5 @@
 {
-  "version": "1.60.2",
-  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.60.2/mavin-ops-1.60.2.apk",
-  "notes": "Bug fixes from tester feedback.\n\n• Adding a friend by code now works (the first request between two people was failing).\n• Payout split % fields no longer jump the cursor to the name box while typing.\n• Pop-up menus no longer hide their bottom buttons behind the phone's on-screen navigation buttons in portrait.\n\nFriends still needs both people signed in on the web app for now."
+  "version": "1.61.1",
+  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.61.1/mavin-ops-1.61.1.apk",
+  "notes": "Sign in on the phone app!\n\n• Native Google and Discord sign-in now work in the Android app (sign-in used to be web-only).\n• Signing in unlocks cross-device sync, friends, and direct messages on your phone.\n\nGrab this update, sign in, and your data follows you across devices."
 }
