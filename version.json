@@ -1,5 +1,5 @@
 {
-  "version": "1.61.2",
-  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.61.2/mavin-ops-1.61.2.apk",
-  "notes": "Sign in on the phone app!\n\n• Fixes Discord sign-in on Android (the first attempt was rejected by Discord).\n• Google sign-in also works.\n• Signing in unlocks cross-device sync, friends, and direct messages on your phone.\n\nGrab this update, sign in, and your data follows you across devices."
+  "version": "1.62.0",
+  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.62.0/mavin-ops-1.62.0.apk",
+  "notes": "Ready-to-collect phone notifications!\n\n• Your phone now alerts you when a refining order is ready to collect — even with the app closed. (You'll get a one-time permission prompt.)\n• Pull down on Refinery / Market / Dashboard to refresh prices, with a discreet progress cue.\n• Smoother back navigation using your phone's own back gesture/button."
 }
