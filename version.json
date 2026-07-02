@@ -1,5 +1,5 @@
 {
-  "version": "1.35.0",
-  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.35.0/mavin-ops-1.35.0.apk",
-  "notes": "Mavin Ops is now an Android app with in-app updates.\n\n• Phone-first navigation: bottom bar is Dashboard · Refinery · Payouts · Market · More, with a floating \"New order\" / \"New split\" button.\n• In-app updates: the app checks here on launch and offers one-tap update when a newer build is posted.\n• Plus the recent refinery work: SCU/cSCU quantity toggle, richer Station & Sell-at pickers, and saved crew lineups (\"Past crews\")."
+  "version": "1.60.1",
+  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.60.1/mavin-ops-1.60.1.apk",
+  "notes": "Big catch-up update since 1.35.0.\n\n• Fleet Ops: named ship groups (Scouts / Mining / Cargo) on the op + live crew board.\n• Customizable dashboard: drag & resize panels, pin anything, set-to-default.\n• Social: friends list + 1:1 direct messages, with a dashboard unread indicator.\n• Refinery: multi-ore work orders, photo-scan import, price locking, live timers.\n• Rock Break & Crafting tools (still in progress).\n\nUnder the hood: locked down the backend so only the app can use the photo-scan and Discord features, safer local-data handling, and honest sign-in guidance (Google and Discord are separate accounts)."
 }
