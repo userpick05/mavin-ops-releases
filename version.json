@@ -1,5 +1,5 @@
 {
-  "version": "1.68.0",
-  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.68.0/mavin-ops-1.68.0.apk",
-  "notes": "Ship Loadouts + crafting accuracy.\n\n- NEW Ship Loadouts in Rock Break: build and save per-ship loadouts, mount crafted lasers, and get 'adjust your loadout / try this laser' advice when a rock won't crack.\n- Crafted stats now match the in-game kiosk: multi-slot bonuses ADD, not multiply (a maxed Helix II reads +40%).\n- Crafting rebuilt: one clean panel per slot with an average-quality fill bar; tap to mix qualities one at a time. Amounts read in SCU (4.278 SCU) like the game.\n- Quality colours are now a smooth red-to-teal gradient.\n\nEstimates stay labeled - the crack formula and combine rules are CIG's."
+  "version": "1.68.1",
+  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.68.1/mavin-ops-1.68.1.apk",
+  "notes": "Small fixes.\n\n- Fixed a flicker on the Refinery screen.\n- The web app no longer shows a blank white page while it loads.\n- Renamed the \"Rock Break\" tab to \"Rockbreaker\"."
 }
