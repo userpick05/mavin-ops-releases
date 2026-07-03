@@ -1,5 +1,5 @@
 {
-  "version": "1.65.0",
-  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.65.0/mavin-ops-1.65.0.apk",
-  "notes": "The Fabricator + Codex 4.8!\n\n• NEW Crafting screen, styled after the in-game Fabrication Kiosk: all 1,545 blueprints from the SC 4.8 files with real quality→stat curves. Theory-craft any build, or craft from your actual inventory — with full Undo.\n• Rock Break now runs on exact 4.8 gear values (every laser, module and gadget). Fun find: FLTR modules actually cost beam power.\n• Codex 4.8: the game's own per-planet mineable lists (Stanton + Pyro, ✓-marked), exact rock difficulty stats, and exact quality bands. Inventory shows what off-band quality 'plays as'.\n\nEstimates stay labeled — the crack formula and combine rules are CIG's."
+  "version": "1.68.0",
+  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.68.0/mavin-ops-1.68.0.apk",
+  "notes": "Ship Loadouts + crafting accuracy.\n\n- NEW Ship Loadouts in Rock Break: build and save per-ship loadouts, mount crafted lasers, and get 'adjust your loadout / try this laser' advice when a rock won't crack.\n- Crafted stats now match the in-game kiosk: multi-slot bonuses ADD, not multiply (a maxed Helix II reads +40%).\n- Crafting rebuilt: one clean panel per slot with an average-quality fill bar; tap to mix qualities one at a time. Amounts read in SCU (4.278 SCU) like the game.\n- Quality colours are now a smooth red-to-teal gradient.\n\nEstimates stay labeled - the crack formula and combine rules are CIG's."
 }
