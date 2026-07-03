@@ -1,5 +1,5 @@
 {
-  "version": "1.68.1",
-  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.68.1/mavin-ops-1.68.1.apk",
-  "notes": "Small fixes.\n\n- Fixed a flicker on the Refinery screen.\n- The web app no longer shows a blank white page while it loads.\n- Renamed the \"Rock Break\" tab to \"Rockbreaker\"."
+  "version": "1.68.2",
+  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.68.2/mavin-ops-1.68.2.apk",
+  "notes": "Wording tidy-up.\n\n- Reworded the data labels across the app to reference the game version they match. No data or feature changes."
 }
