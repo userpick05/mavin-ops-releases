@@ -1,5 +1,5 @@
 {
-  "version": "1.63.0",
-  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.63.0/mavin-ops-1.63.0.apk",
-  "notes": "Direct-message push notifications!\n\n• When a friend messages you, your phone now gets a push — even with the app closed. Tap it to jump to Messages.\n• For your privacy it shows only who it's from, never the message text.\n• Uses the same notification permission as the ready-order alerts."
+  "version": "1.65.0",
+  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.65.0/mavin-ops-1.65.0.apk",
+  "notes": "The Fabricator + Codex 4.8!\n\n• NEW Crafting screen, styled after the in-game Fabrication Kiosk: all 1,545 blueprints from the SC 4.8 files with real quality→stat curves. Theory-craft any build, or craft from your actual inventory — with full Undo.\n• Rock Break now runs on exact 4.8 gear values (every laser, module and gadget). Fun find: FLTR modules actually cost beam power.\n• Codex 4.8: the game's own per-planet mineable lists (Stanton + Pyro, ✓-marked), exact rock difficulty stats, and exact quality bands. Inventory shows what off-band quality 'plays as'.\n\nEstimates stay labeled — the crack formula and combine rules are CIG's."
 }
