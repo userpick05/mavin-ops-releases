@@ -1,5 +1,5 @@
 {
-  "version": "1.68.2",
-  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.68.2/mavin-ops-1.68.2.apk",
-  "notes": "Wording tidy-up.\n\n- Reworded the data labels across the app to reference the game version they match. No data or feature changes."
+  "version": "1.69.0",
+  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.69.0/mavin-ops-1.69.0.apk",
+  "notes": "From tester feedback.\n\n- Fleet Op ship picker now covers the whole flyable fleet - add an escort to your mining op. Searchable.\n- Sell terminals sort by city name (New Babbage under N).\n- Finalizing a payout from a Fleet Op takes you to the Payouts tab.\n- Crafting quality slider has a visible track + tap-to-type exact value."
 }
