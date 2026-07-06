@@ -1,5 +1,5 @@
 {
-  "version": "1.69.1",
-  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.69.1/mavin-ops-1.69.1.apk",
-  "notes": "From tester feedback.\n\n- Crafting category filters now wrap onto multiple lines - every category is visible without side-scrolling."
+  "version": "1.70.0",
+  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.70.0/mavin-ops-1.70.0.apk",
+  "notes": "From tester feedback (Drunken Wizards + Mavin Industrial).\n\n- Global search across minerals, ships, blueprints and locations.\n- Mark blueprints Known / Favorite and filter to them.\n- Split evenly for payouts (whole crew, a group, or the pool across groups).\n- Preferred refinery is tagged and pre-selected on new orders.\n- Rockbreaker: fit duplicate modules, and multi-select which arms are firing.\n- Faster material search; amount fields accept commas."
 }
