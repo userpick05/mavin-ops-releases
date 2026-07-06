@@ -1,5 +1,5 @@
 {
-  "version": "1.71.0",
-  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.71.0/mavin-ops-1.71.0.apk",
-  "notes": "From tester feedback (Drunken Wizards).\n\n- Dashboard 'Active Jobs' counts a multi-ore run as one job.\n- Order detail sheet scrolls - no longer cut off at the bottom.\n- Global search ranks exact/close name matches first; arrow keys + Enter to navigate.\n- Layout editor: empty panels are labeled, and panels fill when resized.\n- Preferences commodity list is now multi-column."
+  "version": "1.72.0",
+  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.72.0/mavin-ops-1.72.0.apk",
+  "notes": "From tester feedback (Twix).\n\n- Rapid inventory entry: add many items without reopening the sheet. Pick a material, enter amount (+ quality/location), Add or Enter saves it into a running list, the form resets, location stays sticky, each row has undo, and Done closes."
 }
