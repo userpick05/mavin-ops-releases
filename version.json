@@ -1,5 +1,5 @@
 {
-  "version": "1.72.0",
-  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.72.0/mavin-ops-1.72.0.apk",
-  "notes": "From tester feedback (Twix).\n\n- Rapid inventory entry: add many items without reopening the sheet. Pick a material, enter amount (+ quality/location), Add or Enter saves it into a running list, the form resets, location stays sticky, each row has undo, and Done closes."
+  "version": "1.73.0",
+  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.73.0/mavin-ops-1.73.0.apk",
+  "notes": "- Notification bell: badges your notifications (new friend request, friend accepted, refinery order ready); tap to jump + clear, or Clear all.\n- Customizable Quick Actions: all buttons match the primary style; add/remove which actions show."
 }
