@@ -1,5 +1,5 @@
 {
-  "version": "1.77.0",
-  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.77.0/mavin-ops-1.77.0.apk",
-  "notes": "- Codex: scan signatures on each mineral (what you read when you ping a rock).\n- Add-to-inventory: the 'added this session' list is now its own gold-accented card, clearly separate from the material list.\n- Navigation reordered: Dashboard, Refinery, Payouts, Fleet Ops, Crafting, Rockbreaker, Market, Analytics, Inventory, Codex, Social."
+  "version": "1.77.1",
+  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.77.1/mavin-ops-1.77.1.apk",
+  "notes": "- Google sign-in now works on Android.\n- Fixed the 'Something went wrong' error screen when signing out."
 }
