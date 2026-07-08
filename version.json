@@ -1,5 +1,5 @@
 {
-  "version": "1.73.0",
-  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.73.0/mavin-ops-1.73.0.apk",
-  "notes": "- Notification bell: badges your notifications (new friend request, friend accepted, refinery order ready); tap to jump + clear, or Clear all.\n- Customizable Quick Actions: all buttons match the primary style; add/remove which actions show."
+  "version": "1.75.0",
+  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.75.0/mavin-ops-1.75.0.apk",
+  "notes": "- Prices show instantly on open from the last-known values (labeled with their real age), then refresh in the background.\n- Smoother launch and rapid inventory entry (edit a just-added lot, add another of the same material).\n- Your saved loadouts and crafted gear now survive game patches: stats update automatically, renamed gear keeps working, removed gear is kept and flagged instead of dropped."
 }
