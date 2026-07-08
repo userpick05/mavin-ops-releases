@@ -1,5 +1,5 @@
 {
-  "version": "1.76.0",
-  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.76.0/mavin-ops-1.76.0.apk",
-  "notes": "- Faster, honest prices: UEX data loads in a single cacheable request, and the 'prices as of' time now reflects the real data age (no more 'just now' over older prices).\n- Tapping Update always forces a fresh pull.\n- Includes 1.75.0 (instant last-known prices on open, smoother launch, rapid inventory entry) and 1.74.0 (loadouts + crafted gear survive game patches)."
+  "version": "1.77.0",
+  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.77.0/mavin-ops-1.77.0.apk",
+  "notes": "- Codex: scan signatures on each mineral (what you read when you ping a rock).\n- Add-to-inventory: the 'added this session' list is now its own gold-accented card, clearly separate from the material list.\n- Navigation reordered: Dashboard, Refinery, Payouts, Fleet Ops, Crafting, Rockbreaker, Market, Analytics, Inventory, Codex, Social."
 }
