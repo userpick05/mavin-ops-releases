@@ -1,5 +1,5 @@
 {
-  "version": "1.77.1",
-  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.77.1/mavin-ops-1.77.1.apk",
-  "notes": "- Google sign-in now works on Android.\n- Fixed the 'Something went wrong' error screen when signing out."
+  "version": "1.78.0",
+  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.78.0/mavin-ops-1.78.0.apk",
+  "notes": "- Fleet Ops: added 16 missing ships, incl. the Drake Ironclad.\n- Preferences now shows your installed app version under Check for updates."
 }
