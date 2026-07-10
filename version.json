@@ -1,5 +1,5 @@
 {
-  "version": "1.78.0",
-  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.78.0/mavin-ops-1.78.0.apk",
-  "notes": "- Fleet Ops: added 16 missing ships, incl. the Drake Ironclad.\n- Preferences now shows your installed app version under Check for updates."
+  "version": "1.80.0",
+  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.80.0/mavin-ops-1.80.0.apk",
+  "notes": "- Rock Breaker rebuilt: scan the rock, pick your loadout, get one clear verdict.\n- Log gem-mining (by the unit), RMC, and salvage jobs, not just ore.\n- Gem prices now shown per-unit in the Market, codex, and sell-at pickers.\n- RSI Salvation added to Fleet Ops."
 }
