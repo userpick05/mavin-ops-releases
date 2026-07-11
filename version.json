@@ -1,5 +1,5 @@
 {
-  "version": "1.83.0",
-  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.83.0/mavin-ops-1.83.0.apk",
-  "notes": "- Fleet Ops go LIVE: share a crew-board link and watch ships and seats fill in real time.\n- Op lifecycle: Planning (setup) / Active (live, claimable) / Ended (frozen final board).\n- Share read-only op economics and payout with crew - you choose what's visible.\n- Custom seats: add, rename, remove seats on any op ship.\n- Payout from an op auto-links it and can add the whole op crew in one tap.\n- Rock Breaker: verdict is its own panel + a gadget on/off toggle.\n- UEX prices refresh automatically (about every 6h); manual refresh removed.\n- Fixes: 'Payout saved' banners no longer stick; ended ops read clearly."
+  "version": "1.84.0",
+  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.84.0/mavin-ops-1.84.0.apk",
+  "notes": "- New logo: a faceted teal gem app icon + the 'MAVIN / FLEET OPS' lockup in-app (the app name is unchanged - still Mavin Ops).\n- Plus everything from v1.83.0: custom seats on op ships, ended-op state, payout auto-links its op and can add the op crew in one tap, tappable shared refining orders, and a fix for stuck 'saved' banners."
 }
