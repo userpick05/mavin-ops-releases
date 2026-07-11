@@ -1,5 +1,5 @@
 {
-  "version": "1.85.2",
-  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.85.2/mavin-ops-1.85.2.apk",
-  "notes": "Raw Ice now works in refinery orders. Refinery cost was ~100x too high (faking negative net) - now fixed. Thanks xTwixx."
+  "version": "1.86.1",
+  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.86.1/mavin-ops-1.86.1.apk",
+  "notes": "Raw Ice now works in refinery orders. Refinery cost was ~100x too high (faking negative net) - fixed. Scan a refinery order from multiple screenshots (merges the scrolling list). Cost tiers calibrated to real 4.8 data (Thermonatic now tier-1). Thanks xTwixx."
 }
