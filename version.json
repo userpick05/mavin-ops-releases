@@ -1,5 +1,5 @@
 {
-  "version": "1.80.0",
-  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.80.0/mavin-ops-1.80.0.apk",
-  "notes": "- Rock Breaker rebuilt: scan the rock, pick your loadout, get one clear verdict.\n- Log gem-mining (by the unit), RMC, and salvage jobs, not just ore.\n- Gem prices now shown per-unit in the Market, codex, and sell-at pickers.\n- RSI Salvation added to Fleet Ops."
+  "version": "1.83.0",
+  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.83.0/mavin-ops-1.83.0.apk",
+  "notes": "- Fleet Ops go LIVE: share a crew-board link and watch ships and seats fill in real time.\n- Op lifecycle: Planning (setup) / Active (live, claimable) / Ended (frozen final board).\n- Share read-only op economics and payout with crew - you choose what's visible.\n- Custom seats: add, rename, remove seats on any op ship.\n- Payout from an op auto-links it and can add the whole op crew in one tap.\n- Rock Breaker: verdict is its own panel + a gadget on/off toggle.\n- UEX prices refresh automatically (about every 6h); manual refresh removed.\n- Fixes: 'Payout saved' banners no longer stick; ended ops read clearly."
 }
