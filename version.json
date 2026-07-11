@@ -1,5 +1,5 @@
 {
-  "version": "1.84.0",
-  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.84.0/mavin-ops-1.84.0.apk",
-  "notes": "- New logo: a faceted teal gem app icon + the 'MAVIN / FLEET OPS' lockup in-app (the app name is unchanged - still Mavin Ops).\n- Plus everything from v1.83.0: custom seats on op ships, ended-op state, payout auto-links its op and can add the op crew in one tap, tappable shared refining orders, and a fix for stuck 'saved' banners."
+  "version": "1.84.1",
+  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.84.1/mavin-ops-1.84.1.apk",
+  "notes": "- App icon polish: a proper adaptive icon - solid dark-navy background with the gem filling your launcher's app shape (circle/squircle) with a slight border, instead of a square tile.\n- Same features as v1.84.0 (new gem logo) and v1.83.0 (custom seats, ended-op state, payout auto-link + op crew in the roster, tappable shared orders, stuck-toast fix)."
 }
