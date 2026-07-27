@@ -1,5 +1,5 @@
 {
-  "version": "1.86.1",
-  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.86.1/mavin-ops-1.86.1.apk",
-  "notes": "Raw Ice now works in refinery orders. Refinery cost was ~100x too high (faking negative net) - fixed. Scan a refinery order from multiple screenshots (merges the scrolling list). Cost tiers calibrated to real 4.8 data (Thermonatic now tier-1). Thanks xTwixx."
+  "version": "1.97.1",
+  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.97.1/mavin-ops-1.97.1.apk",
+  "notes": "Blueprint sources: every craftable now shows where it comes from - which contract reward pools list it, which event tiers grant it, or whether you already know it. New Missions codex tab, browsable by mission giver. Pin missions to your dashboard. Import learned blueprints straight from your Game.log. Cargo layout modes (Tight / Separated / Buffered) and a stop-by-stop load plan for hauling. Updated to SC 4.9.187 data with 24 recovered blueprints."
 }
