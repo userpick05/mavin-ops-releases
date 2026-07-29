@@ -1,5 +1,5 @@
 {
-  "version": "1.97.1",
-  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v1.97.1/mavin-ops-1.97.1.apk",
-  "notes": "Blueprint sources: every craftable now shows where it comes from - which contract reward pools list it, which event tiers grant it, or whether you already know it. New Missions codex tab, browsable by mission giver. Pin missions to your dashboard. Import learned blueprints straight from your Game.log. Cargo layout modes (Tight / Separated / Buffered) and a stop-by-stop load plan for hauling. Updated to SC 4.9.187 data with 24 recovered blueprints."
+  "version": "2.3.1",
+  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v2.3.1/mavin-ops-2.3.1.apk",
+  "notes": "ROCKBREAKER is in the app - a new Arcade tab. Plays fullscreen in landscape; sign in and your progress and merits save to your account. Also: a first-run welcome that asks what you want to do and takes you there, a ? on every screen explaining what it is for, and a Ko-fi link. Fixed: Pressurized Ice and Silicon were missing from prices and the dashboard entirely. Smaller download too - 28 MB instead of 72 MB."
 }
