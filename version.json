@@ -1,5 +1,5 @@
 {
-  "version": "2.3.1",
-  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v2.3.1/mavin-ops-2.3.1.apk",
-  "notes": "ROCKBREAKER is in the app - a new Arcade tab. Plays fullscreen in landscape; sign in and your progress and merits save to your account. Also: a first-run welcome that asks what you want to do and takes you there, a ? on every screen explaining what it is for, and a Ko-fi link. Fixed: Pressurized Ice and Silicon were missing from prices and the dashboard entirely. Smaller download too - 28 MB instead of 72 MB."
+  "version": "2.7.0",
+  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v2.7.0/mavin-ops-2.7.0.apk",
+  "notes": "Ore you are keeping no longer counts toward what you have left to sell - it gets its own KEEPING line, in SCU rather than aUEC. Tap the estimate to see where the ore actually is, broken down by terminal. An order can finally say Part sold - kept. A multi-ore run now sends ONE ready-to-collect alert instead of one per ore, and an order finishing while you are on another tab actually reaches you - the bell could not notice time passing before. Selling a load asks one figure per line and splits each job's exact share; the confusing That's all of it tickbox is gone."
 }
