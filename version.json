@@ -1,5 +1,5 @@
 {
-  "version": "2.7.0",
-  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v2.7.0/mavin-ops-2.7.0.apk",
-  "notes": "Ore you are keeping no longer counts toward what you have left to sell - it gets its own KEEPING line, in SCU rather than aUEC. Tap the estimate to see where the ore actually is, broken down by terminal. An order can finally say Part sold - kept. A multi-ore run now sends ONE ready-to-collect alert instead of one per ore, and an order finishing while you are on another tab actually reaches you - the bell could not notice time passing before. Selling a load asks one figure per line and splits each job's exact share; the confusing That's all of it tickbox is gone."
+  "version": "2.8.1",
+  "apkUrl": "https://github.com/userpick05/mavin-ops-releases/releases/download/v2.8.1/mavin-ops-2.8.1.apk",
+  "notes": "Notes - a 'where I left off' card on your dashboard, checklists you can tick from the tile, and notes attached to an order, a shopping list, a run or a codex entry. Crafting shopping lists - a whole armour set totalled into one list, with counts per blueprint and what you already hold read from your Inventory. Gems are counted in gems now, not SCU. Fleet Ops gained 27 ships including the ARGO MOTH. Inventory takes finished items with their crafted bonuses. Hull C hauling knows which stops it can actually dock at."
 }
